@@ -1,0 +1,18 @@
+{
+  "name" : "node-cache",
+  "description" : "A simple in-memory cache. put() get() and delete(). Fork!",
+  "author" : "Paul Tarjan <npm@paulisageek.com>",
+  "url" : "https://github.com/amonaco/node-cache",
+  "keywords" : [
+    "cache",
+    "ram",
+    "simple",
+    "storage"
+  ],
+  "main" : "./index.js",
+  "version" : "0.0.4",
+  "repository" : { 
+    "type" : "git", 
+    "url" : "git://github.com/amonaco/node-cache.git"
+  }
+}
